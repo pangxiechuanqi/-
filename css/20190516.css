@@ -258,7 +258,7 @@ a:hover{text-decoration:underline}
 
 		.dl_tab a{display:block;width:113px;height:39px;border-top:1px solid #F3F3F3;border-right:0;line-height:39px;background-color:#E0E0E0;color:#6e584b;font-weight:900;}
 
-		.dl_tab a:hover{text-decoration:none;background-color:#eae8e8;color:}
+.dl_tab a:hover{text-decoration:none;background-color:#eae8e8;color:#6e584b;}
 
 	.dl_alert,.icon{background:url(../images/dl_icon.gif) no-repeat;}
 
